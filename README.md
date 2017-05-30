@@ -1,5 +1,12 @@
 # 96_Foundational-DB
 Exercises: Foundational Relational Database Knowledge
+
+Project: bland-pintail 
+*Your team is:*
+• _Glenn-David Daniel_ - @d2rd
+
+
+
 ---
 authors:
 - "deonna"
