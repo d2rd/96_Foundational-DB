@@ -70,17 +70,17 @@ Being able to write SQL queries is an important skill, but being able to design 
 It is recommended that you complete these specs in order.
 
 **SQL Foundations**
-- [ ] [SQLBolt](https://sqlbolt.com/) exercises completed and added to artifact repo
-- [ ] Exercises in "Tutorials: Learn SQL in stages" section on [SQLZOO](http://sqlzoo.net/) completed and added to artifact repo
+- [x] [SQLBolt](https://sqlbolt.com/) exercises completed and added to artifact repo
+- [x] Exercises in "Tutorials: Learn SQL in stages" section on [SQLZOO](http://sqlzoo.net/) completed and added to artifact repo
 
 **Exercises to Reinforce Conceptual Knowledge**
 - [ ] 10 [Relational Algebra challenges](https://www.hackerrank.com/domains/databases/relational-algebra/difficulty/all/page/1) on HackerRank completed and added to artifact repo
-- [ ] 5 [Database Normalization challenges](https://www.hackerrank.com/domains/databases/database-normalization/difficulty/all/page/1) on HackerRank completed and added to artifact repo
+- [x] 5 [Database Normalization challenges](https://www.hackerrank.com/domains/databases/database-normalization/difficulty/all/page/1) on HackerRank completed and added to artifact repo
 
 **Other**
-- [ ] SQL files are well formatted and readable.
-- [ ] All the SQL keywords are capitalized.
-- [ ] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT)
+- [x] SQL files are well formatted and readable.
+- [x] All the SQL keywords are capitalized.
+- [x] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT)
 
 ### Stretch
 
